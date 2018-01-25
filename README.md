@@ -1,0 +1,2 @@
+# chatbase
+Slack sucks.
